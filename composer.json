@@ -1,6 +1,7 @@
 {
     "name": "arturtmsteacher/hello-tms",
     "description": "hello package",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Artur\\HelloTms\\": "src/"
