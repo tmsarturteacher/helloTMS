@@ -1,0 +1,11 @@
+{
+    "name": "artur/hello-tms",
+    "description": "hello package",
+    "autoload": {
+        "psr-4": {
+            "Artur\\HelloTms\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {}
+}
