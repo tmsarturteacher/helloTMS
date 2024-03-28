@@ -1,5 +1,5 @@
 {
-    "name": "artur/hello-tms",
+    "name": "arturTmsTeacher/hello-tms",
     "description": "hello package",
     "autoload": {
         "psr-4": {
